@@ -1,0 +1,4 @@
+,t,p,n_folds,wins
+EnergyPhasePINN_vs_GPR,1.8588,0.0805,18.0,9.0
+PhasePINN_vs_GPR,1.9974,0.062,18.0,12.0
+EnergyPhasePINN_vs_PhasePINN,-1.7984,0.0899,18.0,6.0

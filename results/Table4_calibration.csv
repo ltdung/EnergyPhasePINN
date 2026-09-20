@@ -1,0 +1,7 @@
+,mean,std
+PICP_1sigma,0.6852,0.125
+PICP_2sigma,0.8577,0.0769
+ECE,0.0967,0.0582
+MCE,0.1802,0.0829
+NLL,21.1304,54.9053
+sharpness_mean_sigma,13.5602,4.4807

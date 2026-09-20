@@ -1,0 +1,4 @@
+model,R2_mean_pooled_random_leaky,R2_std_pooled_random_leaky,MAE_mean_pooled_random_leaky,RMSE_mean_pooled_random_leaky,n_pooled_random_leaky,R2_mean_LOCO_corrected,R2_std_LOCO_corrected,MAE_mean_LOCO_corrected,RMSE_mean_LOCO_corrected,n_LOCO_corrected
+EnergyPhasePINN,0.9841,0.0005,4.4258,5.9054,5,0.957,0.0403,7.0743,9.052,90
+PhasePINN,0.9823,0.0006,4.6796,6.2303,5,0.9634,0.0295,6.5804,8.4652,90
+GPR,0.9845,0.0003,4.3947,5.8401,3,0.8339,0.2963,11.9127,14.5771,54

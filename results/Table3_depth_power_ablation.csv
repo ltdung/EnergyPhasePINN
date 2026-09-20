@@ -1,0 +1,3 @@
+model,R2_with_powers,R2_with_powers_std,R2_independent_only,R2_independent_only_std
+EnergyPhasePINN,0.957,0.0403,0.934,0.1012
+PhasePINN,0.9634,0.0295,0.9618,0.0282

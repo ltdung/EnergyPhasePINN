@@ -1,0 +1,42 @@
+[
+  {
+    "seed": 0,
+    "R2": 0.9810067415237427,
+    "gate_share_overall": 0.09622291475534439,
+    "gate_share_transition": 0.12288068979978561,
+    "gate_share_nontransition": 0.05236440151929855,
+    "frac_transition_pts": 0.5314183123877917
+  },
+  {
+    "seed": 1,
+    "R2": 0.9828752279281616,
+    "gate_share_overall": 0.051606420427560806,
+    "gate_share_transition": 0.05163868889212608,
+    "gate_share_nontransition": 0.007180820219218731,
+    "frac_transition_pts": 0.9515260323159784
+  },
+  {
+    "seed": 2,
+    "R2": 0.9553231000900269,
+    "gate_share_overall": 0.12028346955776215,
+    "gate_share_transition": 0.1884080469608307,
+    "gate_share_nontransition": 0.06894543766975403,
+    "frac_transition_pts": 0.6481149012567325
+  },
+  {
+    "seed": 3,
+    "R2": 0.9756537675857544,
+    "gate_share_overall": 0.09897879511117935,
+    "gate_share_transition": 0.12838318943977356,
+    "gate_share_nontransition": 0.05653267353773117,
+    "frac_transition_pts": 0.5673249551166966
+  },
+  {
+    "seed": 4,
+    "R2": 0.9683802723884583,
+    "gate_share_overall": 0.09053818136453629,
+    "gate_share_transition": 0.13774389028549194,
+    "gate_share_nontransition": 0.047876738011837006,
+    "frac_transition_pts": 0.526032315978456
+  }
+]

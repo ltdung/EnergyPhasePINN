@@ -1,0 +1,12 @@
+torch>=2.4
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.4
+scipy>=1.13
+matplotlib>=3.8
+nbformat>=5.10
+nbconvert>=7.16
+
+# figures/graphical_abstract.pdf and figures/architecture.pdf ship as PDF+PNG only (no
+# SVG committed). To rebuild them from source you need Inkscape (external, not pip-
+# installable) -- see figures/FIGURE_NOTES.md.
