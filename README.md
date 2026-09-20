@@ -25,7 +25,6 @@ significant (p=0.09) -- its real contribution is interpretability and a measured
 `results/runs_all.csv` (1248 runs) -- nothing here is illustrative. Figure source:
 [`figures/graphical_abstract.pdf`](figures/graphical_abstract.pdf) (vector, embedded fonts);
 architecture diagram below is [`figures/architecture.pdf`](figures/architecture.pdf).
-PNGs here are 600 dpi exports of the same source for inline display.*
 
 ## Contents
 
